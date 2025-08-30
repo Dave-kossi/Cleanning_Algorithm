@@ -1,4 +1,4 @@
-# Cleanning_Algorithm
+# Cleaning_Algorithm
 # 🧹 Nettoyage intelligent de données avec Python
 
 ## 📌 Objectif du projet
